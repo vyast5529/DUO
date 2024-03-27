@@ -124,7 +124,7 @@ nav h3 a{
     position: relative;
     
     left:5%;
-    margin-top: 20vw;
+    margin-top: 40vw;
    
     
   
@@ -1242,7 +1242,7 @@ border-bottom:1px solid black ;
 .elm1 .text-div1
 {
     height: 20vw;
-    width: 70vw;
+    width: 90vw;
    
     font-size: 4vw;
     position:relative;
@@ -1257,7 +1257,7 @@ border-bottom:1px solid black ;
 .elm2 .text-div2
 {
     height: 20vw;
-    width: 70vw;
+    width: 90vw;
    
     font-size: 4vw;
     position:relative;
@@ -1271,7 +1271,7 @@ border-bottom:1px solid black ;
 .elm3 .text-div3
 {
     height: 20vw;
-    width: 70vw;
+    width: 90vw;
    
     font-size: 4vw;
     position:relative;
@@ -1689,6 +1689,7 @@ transition-duration: 0.6s;
 #page7
 {
     height: 100vh;
+    background-color: black;
 
     width: 100vw;
 
