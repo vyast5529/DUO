@@ -148,7 +148,7 @@ nav h3 a{
  #page2 h1
  {
     height: 8vw;
-    width: 60%;
+    width: 80%;
    
     text-transform: uppercase;
     font-family: f1;
@@ -972,11 +972,11 @@ nav h3 a{
  #page2 h1
  {
     height: 20vw;
-    width: 90%;
+    width: 85%;
    
     text-transform: uppercase;
     font-family: f1;
-    font-size: 7vw;
+    font-size: 7.7vw;
     display: flex;
     align-items: center;
     color:white;
