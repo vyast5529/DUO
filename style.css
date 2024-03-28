@@ -972,11 +972,11 @@ nav h3 a{
  #page2 h1
  {
     height: 20vw;
-    width: 85%;
+    width: 90%;
    
     text-transform: uppercase;
     font-family: f1;
-    font-size: 7.7vw;
+    font-size: 7vw;
     display: flex;
     align-items: center;
     color:white;
@@ -984,7 +984,7 @@ nav h3 a{
    
    position: relative;
    bottom: 3vw;
-   background-color: blue;
+  
 
  
 
