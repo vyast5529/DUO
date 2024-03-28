@@ -157,6 +157,7 @@ nav h3 a{
     align-items: center;
    
     color:white;
+    background-color: transparent;
    align-self: self-start;
 
  }
