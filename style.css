@@ -700,12 +700,13 @@ border-bottom:1px solid black ;
     }
     #page6
     {
-        height: 110vh;
+        height: 100vh;
         width: 100vw;
         background-color:black;
         position: relative;
         display:flex;
     flex-direction: column;
+    
     justify-content: space-evenly;
     }
     #bar
@@ -1251,7 +1252,7 @@ border-bottom:1px solid black ;
     position:relative;
     overflow: hidden;
     z-index: 9;
-    background-color: blue;
+    
     display: flex;
   
     align-items: center;
@@ -1269,7 +1270,7 @@ border-bottom:1px solid black ;
     align-items: center;
     justify-content: center;
     z-index: 9;
-    background-color: blue;
+    
 }
 .elm3 .text-div3
 {
@@ -1280,7 +1281,7 @@ border-bottom:1px solid black ;
     position:relative;
     overflow: hidden;
     z-index: 9;
-    background-color: blue;
+   
     display: flex;
   
     align-items: center;
