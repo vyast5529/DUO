@@ -223,6 +223,10 @@ nav h3 a{
    
     
 }
+#page7 h1 
+{
+    color: transparent;
+}
 #page3 h1{
     height: 8vw;
     width: 60%;
